@@ -1,0 +1,16 @@
+- צרו ROUTE בשם cars
+שיש לו מודל של CARS צרו לו קולקשן עם הקובץ JSON CARS שיש לכם בתקיית JSONS של השיעור
+המודל יהיה בנוי בצורה הבאה (למרות שה JSON מכיל יותר מידע):
+company:String
+model:String
+price:Number
+color:String - לא חובה לשלוח
+year:Number
+
+- צרו ראוטר GET "/" ראשי שידע להציג את כל הרשומות 
+- צרו ראוטר SEARCH שידע לחפש ביטוי שנעביר לו במשתנה QUERY STRING בשם S 
+/search?s=
+ויחפש במאפיינים company ו model את הביטוי שנמצא במשתנה S בQUERY STRING
+
+
+לעשות עד 14:20

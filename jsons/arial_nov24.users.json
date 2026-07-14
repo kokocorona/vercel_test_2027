@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "677ce54da8e459e6a1bf3963"
+  },
+  "name": "koko",
+  "email": "koko@walla.com",
+  "password": "$2b$10$CsNjfOOPa.RD136n/CZEPuqJvd9HZ9jkdRoB5y4FD1Hw.ZoZlSKSm",
+  "createdAt": {
+    "$date": "2025-01-07T08:26:53.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-07T08:26:53.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ceff6f9c6965a82c2534b"
+  },
+  "name": "momo",
+  "email": "momo@walla.com",
+  "password": "$2b$10$J5JHxVR.79dMEva8O4BGDOQEvYvhe.G9d1IxBLDW4mskhqVZiA0vy",
+  "createdAt": {
+    "$date": "2025-01-07T09:12:22.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-07T09:12:22.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786106dad0e04b102d27ae1"
+  },
+  "name": "Joe biden",
+  "email": "biden@walla.com",
+  "password": "$2b$10$.ZtklUDLIj/rbqIXZX044urDyYkT6i0wMNtt1Ns.Qge9CZ4yWUaiK",
+  "createdAt": {
+    "$date": "2025-01-14T07:21:17.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T07:21:17.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67862eb3f32fd2b772233e4a"
+  },
+  "name": "Donald trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$wvLUmT00aG9HD0v/VOxYZOQ2zCvOkxyKgYcYkqJSH8/znvpA70x6W",
+  "createdAt": {
+    "$date": "2025-01-14T09:30:27.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:30:27.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678f4b695face61f50c12bf2"
+  },
+  "name": "david",
+  "email": "david@walla.com",
+  "password": "$2b$10$Qnv4kL34Gt66EEJAgMDQ8uUwjHD3vGwBzQ8udPRs4CLSyNgIPyKRq",
+  "createdAt": {
+    "$date": "2025-01-21T07:23:21.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-21T07:23:21.603Z"
+  },
+  "__v": 0
+}]

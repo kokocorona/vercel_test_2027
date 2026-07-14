@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "678f53d81061e8d8f9069da5"
+  },
+  "name": "Hapoel Tel Aviv",
+  "wins": 15,
+  "loses": 5,
+  "next_game": "2025-05-05",
+  "category": "Israeli Premier League",
+  "createdAt": {
+    "$date": "2025-01-21T07:59:20.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-21T07:59:20.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678f557e738e22d29f17a572"
+  },
+  "name": "Hapoel Tel Aviv",
+  "wins": 15,
+  "loses": 5,
+  "next_game": "2025-05-05",
+  "category": "Israeli Premier League",
+  "user_id": "678f4b695face61f50c12bf2",
+  "createdAt": {
+    "$date": "2025-01-21T08:06:22.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-21T08:06:22.545Z"
+  },
+  "__v": 0
+}]

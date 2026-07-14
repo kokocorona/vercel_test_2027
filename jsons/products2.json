@@ -1,0 +1,84 @@
+[{
+  "name": "GALAXY FLIP 4",
+  "info": "NICE SMARTPHONE THAT FLIP TO HALF OF SAMSUNG COMPANY",
+  "price": 1600,
+  "category_url": "smartphones",
+  "user_id": "moshe"
+},
+{
+  "name": "iphone 30",
+  "info": "the worst smartphones ever!",
+  "price": 2000,
+  "category_url": "smartphones",
+  "user_id": "moshe"
+},
+{
+  "name": "microwave",
+  "info": "new microwave of sharp",
+  "price": 400,
+  "category_url": "electricty",
+  "user_id": "moshe"
+},
+{
+  "name": "tv lg",
+  "info": "new tv lg",
+  "price": 800,
+  "category_url": "electricty",
+  "user_id": "moshe"
+},
+{
+  "name": "TV LG 49 inch",
+  "info": "TV OF LG COMPANY",
+  "price": 670,
+  "category_url": "electricty",
+  "user_id": "shlomo"
+},
+{
+  "name": "XIOAMI MI 9 pro",
+  "info": "NICE SMARTPHONE of XIOAMI COMPANY",
+  "price": 900,
+  "category_url": "electricty",
+  "user_id": "shlomo"
+},
+{
+  "name": "TV SONY 46 inch",
+  "info": "TV OF SONY COMPANY",
+  "price": 2020,
+  "category_url": "electricty",
+  "user_id": "david"
+},
+{
+  "name": "atari 800xl",
+  "info": "computer from 80's",
+  "price": 900,
+  "category_url": "laptops",
+  "user_id": "moshe"
+},
+{
+  "name": "PLAYSTATION 4",
+  "info": "NICE PLAYSTAION 4 , LIKE NEW IN WHITE COLOR",
+  "price": 700,
+  "category_url": "consoles",
+  "user_id": "david"
+},
+{
+  "name": "iphone 11",
+  "info": "The best iphone",
+  "price": 2000,
+  "category_url": "electricty",
+  "user_id": "moshe"
+},
+{
+  "name": "ASUS F15",
+  "info": "ASUS F15, BEST LAPTOP EVER!",
+  "price": 5000,
+  "category_url": "laptops",
+  "user_id": "david"
+},
+{
+  "name": "MAC 2023",
+  "info": "MAC 2023 of apple , nice computer of apple",
+  "price": 5000,
+  "category_url": "laptops",
+  "user_id": "moshe"
+}]
